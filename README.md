@@ -1,7 +1,17 @@
-# Table Tennis
+# Table tennis
+
+[![racket and ball](https://www.mprosports.com/large/TABLE-TENNIS-RACKET-SET-WITH-3-SOFTEE-SATURN-BALLS.-i51678.jpg)]
 
 ## Racket
-[![image of a racket](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Ftable-tennis-racket-ball-on-white-51347782&psig=AOvVaw3r4CSU0iGobyaQKmtntJ2n&ust=1708956358708000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiO59OlxoQDFQAAAAAdAAAAABAJ)]
+### Features
+- Two sides with Black and red
+- Wooden handle
+- Rubber surfaces
+
+### Rubber
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table tennis regulations approved by the International Table Tennis Federation (ITTF) allow
+
+
 
 
 
